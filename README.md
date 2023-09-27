@@ -1,5 +1,5 @@
 Tech used : html css javascript reactjs
-deoloyed in netlify :https://totalitycorpecom.netlify.app/
+deoloyed in netlify : "https://65143d9251d2c92e96e574aa--transcendent-puppy-b10571.netlify.app/" 
 
 Approach
 ->used bootstrap to quicky create frontend components
